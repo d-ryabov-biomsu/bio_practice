@@ -1,0 +1,456 @@
+>NP_081340.1 histone H2B variant L1 [Mus musculus]
+------------------------------------MAK----PT--------FKRQ---
+---------------CYI---KRHLRPLYRKHSR--------------CSSIN-LG----
+--HGNYSL---YINRVLKEVVPNRGISSYSVDIMNILINDIFERIATEACQQMFL----R
+KRCTLTPGDIQQAVHLLLPKKLATLAVTFGSKAVHR------FIHS--------------
+-
+>XP_003515979.1 histone H2B subacrosomal variant [Cricetulus griseus]
+------------------------------------MAK---SII--------KRYQ---
+--------------------------FVKRRQRR--------AF----RKRYS-SINFG-
+--QRNYSL---YISRVLKEVVPMRGLSSNTVDIMNTLINDLFERIATEACQLMYF----R
+KRCTLTLEDIQKAVYLLVPKKLAKSAVTFGSKAVHR------FIHS--------------
+-
+>XP_001095287.1 PREDICTED: histone H2B subacrosomal variant-like [Macaca mulatta]
+------------------------------------------------------------
+---------------MAR---SSTKKHKYSKRHQ--------SP----TSRKK-AHSSID
+FVHGNYSF---FVNKVLKEVVSHRGTSSRTLDLMNTLINNFFQHISMKAYRLMYF----R
+NRCTLTPEDILKAAYLLLPQKTANYAVAFGSEVFRR------YVHS--------------
+-
+>XP_003461969.1 histone H2B subacrosomal variant-like [Cavia porcellus]
+------------------------------------MV---------------KSVI---
+---------------KPRRYFRGRRTSISSKKSC--------------LSSNSGYR----
+----NYSL---YVSRVLKEVVPERAISSCTVNIMNTLIDDIFERISEEAHHLMCS----Q
+KRCTLTPKDIQKAVYLLLPRKLAKYAVAFGDGAVDR------YVHS--------------
+-
+>XP_004885290.1 PREDICTED: histone H2B subacrosomal variant-like [Heterocephalus glaber]
+------------------------------------------------------------
+---------------MVR---SIIKQYGYSRRHL--------TP----TYRKK-SYLSTS
+FGHRNYSL---YISRVLKEVAPQRHISSRTLDMMNALINNIFERIATEAHHLMCS----R
+NRCTLAPEDIQRAVYLLLPGKLAKYAMAFGDEAVHR------YVHS--------------
+-
+>XP_001504072.2 histone H2B subacrosomal variant [Equus caballus]
+------------------------------------------------------------
+---------------MAR---DSTKKSRCSRRRQ--------SP----ASRKK-SHASTY
+RGHRNYSL---YINRVLKEVVPQRGISARTLDTMNILINNIFERISTEACSMMYF----R
+NRCTLTPQDVQKAVYSLFPGKLAKYAVAFGSEAVQR------YLHS--------------
+-
+>NP_991343.1 histone H2B subacrosomal variant [Bos taurus]
+------------------------------------MAR---NVT--------KRNK---
+---------------RCR----GHQKAIYKKKSH--------SS----SESGL-------
+---RNYSL---YINRVLKEVVPQKGISSRTIDIINTMINDMFERISTEACNLMYY----R
+KRCTLTPEDIEKAVYLLLPEKLAKYAVAFGKEAVQR------YVRS--------------
+-
+>XP_003407998.1 PREDICTED: histone H2B subacrosomal variant-like [Loxodonta africana]
+------------------------------------MAR---SII--------KKYR---
+---------------YSN----GHLSSISIKKLH--------SS----TNFGH-------
+---RNYSL---YVNRVLKEVVPQRGISSRTLDVMNTLINNIFKCIATEACNLMYF----R
+NRCTLTPEDIQRAVYVRLPGKLAKHAVAFGSEAVNR------YVHS--------------
+-
+>XP_003134084.1 histone H2B subacrosomal variant-like [Sus scrofa]
+------------------------------------MAR---YIT--------KKNR---
+---------------CSR----GHRHPNSRKKTC--------SS----TECGR-------
+---RNYSL---YVNRVLKEVVPQSGISSRTLDMMNTVINDIFERISMEASNLMYF----R
+NRCTLTPEDVQKAVYLLLPRKLAKHAVAFGSDAVHR------YVHS--------------
+-
+>XP_002921383.1 histone H2B subacrosomal variant [Ailuropoda melanoleuca]
+------------------------------------MAR---SIT--------KKNK---
+---------------RSR----GHRSPISKKKSH--------SS----TDFGR-------
+---RNYSL---YINRVLKEVVPQRSISSRTLDVMNTLIKDIFERISVEARSLMCF----R
+NRCTLTPEDIQKAVYLLLPGKLAKYAVAFGSEAVQR------YVQS--------------
+-
+>XP_001366286.1 PREDICTED: histone H2B-like isoform X1 [Monodelphis domestica]
+------------------------------------MTK---------------------
+---------------AVR---SNESQKLTTNQEK--------KK----KKKKKLLL----
+--SRNYSL---YTHRVLKEVIPNQGLTYKTTEIMNSMINNILERIAEEAGNLLCY----K
+RHLTLGHQDIQMAVYRLLPDELAKHAVAFGTRAVTT------YNDSK-------------
+-
+>DAA13058.1 TPA: H2B histone family, member W, testis-specific-like [Bos taurus]
+------MGIGGSILSETSSDSYEEDVITKETGISEIEPS----EKEMAKVETSKPDPYDA
+EPIKVETSKPDPYDAEPKKAETSKPDPYDAEPKK--AKQKTAKG----RRRRRHCH----
+--HDSFSSFATYFPRVLRQIHKGMSLSHDSVNILDSFVKDTFERIAEEAGRLAGD----N
+KRRTITTEDIEAAVRLLLPGKLGKYAVLKATKSLIT------YRTCK-------------
+-
+>XP_823266.1 histone H2B, putative [Trypanosoma brucei brucei TREU927]
+------------------------------------MAT----P---------KSTP---
+---------------AKT--------------RK--------EA----KKTRR-QR----
+--KRTWNV---YVSRSLRSINSQMSMTSRTMKIVNSFVNDLFERIAAEAATIVRV----N
+RKRTLGARELQTAVRLVLPADLAKHAMAEGTKAVSH------ASS---------------
+-
+>XP_002369740.1 histone H2Bv [Toxoplasma gondii ME49]
+-----------------------------------MSGK---GPA--------QKSQ---
+---------------AAK---KTAGKSLG--------------P----RYRRR-KR----
+--TESFAL---YIYKVLKQVHPETGVSKKSMSIMNSFINDIFDRLADEAVRLIRY----N
+KKRTLSSREIQTAVRLLLPGELSKHAVSEGTKAVTK------YTTSGA------------
+-
+>XP_678689.1 histone H2B variant, putative [Plasmodium berghei ANKA]
+-----------------------------------------------------MSGK---
+---------------GPA---QKSQAAKKTAGKT--------LG----PRHKRKRR----
+--TESFSL---YIFKVLKQVHPETGVTKKSMNIMNSFINDIFDRLVTEATRLIRY----N
+KKRTLSSREIQTAVRLLLPGELSKHAVSEGTKAVTK------YTTSGA------------
+-
+>XP_001349046.1 histone H2B variant [Plasmodium falciparum 3D7]
+------------------------------------MSG--------------K------
+---------------GPA---QKSQAAKKTAGKT--------LG----PRHKRKRR----
+--TESFSL---YIFKVLKQVHPETGVTKKSMNIMNSFINDIFDRLVTEATRLIRY----N
+KKRTLSSREIQTAVRLLLPGELSKHAVSEGTKAVTK------YTTSAA------------
+-
+>NP_009553.1 histone H2B [Saccharomyces cerevisiae S288C]
+------------------------------------MSS----AA--------EKKP---
+---------------ASKAPAEKKPAAKKTSTSV--------DG----KKRSK-VR----
+--KETYSS---YIYKVLKQTHPDTGISQKSMSILNSFVNDIFERIATEASKLAAY----N
+KKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTK------YSSSTQA-----------
+-
+>NP_010510.3 histone H2B [Saccharomyces cerevisiae S288C]
+------------------------------------MSA----KA--------EKKP---
+---------------ASKAPAEKKPAAKKTSTST--------DG----KKRSK-AR----
+--KETYSS---YIYKVLKQTHPDTGISQKSMSILNSFVNDIFERIATEASKLAAY----N
+KKSTISAREIQTAVRLILPGELAKHAVSEGTRAVTK------YSSSTQA-----------
+-
+>NP_001356054.2 histone H2B type 2-K1 [Homo sapiens]
+------------------------------------MSA--------------EYGQ---
+---------------RQQ---PGGRGGRSSGNKK--------SK----KRCRR-------
+--KESYSM---YIYKVLKQVHPDIGISAKAMSIMNSFVNDVFEQLACEAARLAQY----S
+GRTTLTSREVQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>sp|Q9LZ45.3|H2B9_ARATH RecName: Full=Histone H2B.9; AltName: Full=HTB10
+-----------------------------------MAPKAEKKPA--------EKAP---
+---------------APKAEKKIAKEGGTSEIVK--------------KKKKTKKS----
+--TETYKI---YIFKVLKQVHPDIGISGKAMGIMNSFINDIFEKLAQESSRLARY----N
+KKPTITSREIQTAVRLVLPGELAKHAVSEGTKAVTK------FTSS--------------
+-
+>sp|Q9FFC0.3|H2B10_ARATH RecName: Full=Histone H2B.10; AltName: Full=HTB2
+------------------------------------MAKADKKPA--------EKKPAEK
+TPAA-----------EPAAAAEKKPKAGKKLPKE--------PAGAGDKKKKR-SKKN--
+--VETYKI---YIFKVLKQVHPDIGISSKAMGIMNSFINDIFEKLAGESSKLARY----N
+KKPTITSREIQTAVRLVLPGELAKHAVSEGTKAVTK------FTSS--------------
+-
+>sp|Q9LQQ4.3|H2B1_ARATH RecName: Full=Histone H2B.1; Short=HTB1
+-----------------------------------MAPRAEKKPA--------EKKTAAE
+RPVEENKAAEK----APA---EKKPKAGKKLPPK--------EAGD--KKKKR-SK-KN-
+--VETYKI---YIFKVLKQVHPDIGISSKAMGIMNSFINDIFEKLAQESSKLARY----N
+KKPTITSREIQTAVRLVLPGELAKHAVSEGTKAVTK------FTSS--------------
+-
+>sp|Q9LZT0.3|H2B7_ARATH RecName: Full=Histone H2B.7; AltName: Full=HTB11
+-----------------------------------MAPKAEKKPA--------EKKPVEE
+KSKAEK---------APA---EKKPKAGKKLPKE--------AGAGGDKKKKMKKKS---
+--VETYKI---YIFKVLKQVHPDIGISSKAMGIMNSFINDIFEKLASESSKLARY----N
+KKPTITSREIQTAVRLVLPGELAKHAVSEGTKAVTK------FTSS--------------
+-
+>NP_999721.1 histone H2B.2, sperm [Strongylocentrotus purpuratus]
+------------------------------------MPR---SPS--------KTSPRKG
+SPRRGSPSRKA----SPKRGGKGAKRAGKGGRRR--------NV----VRRRR-RR----
+--RESYGI---YIYKVLKQVHPDTGISSRGMSVMNSFVNDIFGRIAGEASRLTRA----N
+RRSTISSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTTSR-------------
+-
+>sp|P02291.2|H2BS2_PARAN RecName: Full=Histone H2B.2, sperm
+------------------------------------MPR---SPA--------KTSPRKG
+SPRKGSPSRKA----SPKRGGKGAKRAGKGGRRR--------RV----VKRRR-RR----
+--RESYGI---YIYKVLKQVHPDTGISSRAMSVMNSFVNDVFERIAGEASRLTSA----N
+RRSTVSSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTTSR-------------
+-
+>sp|Q27750.3|H2BS2_PSAMI RecName: Full=Histone H2B.2, sperm
+------------------------------------MPK---SPS--------KSSPRKG
+SPRKG----------SPR---KGSPKRGGKGAKR-----AGKGGRRNVVKRRR-RR----
+--RESYGI---YIYKVLKQVHPDTGISSRGMSVMNSFVNDVFERIAGEASRLTSA----N
+RRSTISSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTTARR------------
+-
+>sp|Q27749.3|H2BS1_PSAMI RecName: Full=Histone H2B.1, sperm
+------------------------------------MPS-QKSPT--------KRSPTKR
+---------------SPQKGGKGAKRGGKAGKRR--------RGVAVKRRRRR-------
+--RESYGI---YIYKVLKQVHPDTGISSRAMSVMNSFVNDVFERIASEAGRLTTY----N
+RRNTVSSREVQTAVRLLLPGELAKHAVSEGTKAVTK------YTTSR-------------
+-
+>NP_999706.1 histone H2B.1, sperm [Strongylocentrotus purpuratus]
+------------------------------------MPS-QRSPT--------KRSPTKR
+---------------SPQ---KGAGKGGKGSKRGGKARRRGGAA----VRRRR-RR----
+--RESYGI---YIYKVLKQVHPDTGISSRGMSIMNSFVNDVFERVAAEASRLTKY----N
+RRSTVSSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTTSR-------------
+-
+>AAA30025.1 histone H2B [Psammechinus miliaris]
+------------------------------------MA---------------PTAQ---
+---------------VAK---KGSKKAVKAPRPS--------GG----KKRNR-KR----
+--KESYGI---YIYKVLKQVHPDTGISSRAMIIMNSFVNDIFERIAGESSRLAQY----N
+KKSTISSREIQTAVRLILPGELAKHAVSEGTKAVTK------YTTSK-------------
+-
+>NP_999710.2 histone H2B, embryonic [Strongylocentrotus purpuratus]
+------------------------------------MA---------------PTAQ---
+---------------VAK---KGSKKAVKGTKTA--------XGG---KKRNR-KR----
+--KESYGI---YIYKVLKQVHPDTGISSRAMVIMNSXVBDIFERIAGESSRLAQY----N
+KKXTXSSREIQTAVRLILPGELAKHAVSEGTKAVTK------YTTSK-------------
+-
+>NP_724342.1 histone H2B [Drosophila melanogaster]
+------------------------------------MP-----PK--------TSGK---
+---------------AAK---KAGK--AQKNITK--------TD----KKKKR-KR----
+--KESYAI---YIYKVLKQVHPDTGISSKAMSIMNSFVNDIFERIAAEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_505464.1 putative histone H2B 3 [Caenorhabditis elegans]
+-------------------------------------------MA--------PPKP---
+---------------SAK---GAKKAAKTVSKPK--------DG----KKRKH-AR----
+--KESYSV---YIYRVLKQVHPDTGVSSKAMSIMNSFVNDVFERIASEASRLAHY----N
+KRSTISSREIQTAVRLILPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_001086753.1 histone H2B 1.1 [Xenopus laevis]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKTQKK--------DG----KKRRK-SR----
+--KESYAI---YVYKVLKQVHPDTGISSKAMSIMNSFVNDVFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSAK-------------
+-
+>NP_778225.1 histone H2B type 3-B [Homo sapiens]
+------------------------------------MPD----PS--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-GR----
+--KESYSI---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIASEASRLAHY----N
+KRSTITSREVQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_001073188.1 histone H2B 7 [Gallus gallus]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKTQKK--------GD----KKRKK-SR----
+--KESYSI---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_003512.1 histone H2B type 1-M [Homo sapiens]
+------------------------------------MPE----PV--------KSAP---
+---------------VPK---KGSKKAINKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_783595.1 histone H2B type 1-B [Mus musculus]
+------------------------------------MPE----PS--------KSAP---
+---------------APK---KGSKKAISKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIASEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_003510.1 histone H2B type 1-L [Homo sapiens]
+------------------------------------MPE----LA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIASEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_066406.1 histone H2B type 1-B [Homo sapiens]
+------------------------------------MPE----PS--------KSAP---
+---------------APK---KGSKKAITKAQKK--------DG----KKRKR-SR----
+--KESYSI---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_059141.1 histone H2B type F-S [Homo sapiens]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----RKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLPHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSAK-------------
+-
+>XP_007485418.1 PREDICTED: histone H2B type 1-F/J/L [Monodelphis domestica]
+------------------------------------MPE----PG--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIASEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_003518.2 histone H2B type 1-O [Homo sapiens]
+------------------------------------MPD----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSI---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_001019770.1 histone H2B type 2-F isoform a [Homo sapiens]
+------------------------------------MPD----PA--------KSAP---
+---------------APK---KGSKKAVTKVQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_001154806.1 histone H2B type 2-F isoform b [Homo sapiens]
+------------------------------------MPD----PA--------KSAP---
+---------------APK---KGSKKAVTKVQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSKLIGPILWK-----
+-
+>XP_011216221.1 PREDICTED: histone H2B type 2-F [Ailuropoda melanoleuca]
+------------------------------------MPD----PA--------KSAP---
+---------------APK---KGSKKAVTKVQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_003515.1 histone H2B type 1-H [Homo sapiens]
+------------------------------------MPD----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>XP_005665716.1 PREDICTED: histone H2B type 1-H-like [Sus scrofa]
+------------------------------------MPD----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_003511.1 histone H2B type 1-N [Homo sapiens]
+------------------------------------MPE----PS--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>XP_005610255.1 PREDICTED: histone H2B type 2-E [Equus caballus]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSI---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_003519.1 histone H2B type 2-E [Homo sapiens]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSI---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_066407.1 histone H2B type 1-D [Homo sapiens]
+------------------------------------MPE----PT--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>XP_003422331.1 histone H2B type 1-J [Loxodonta africana]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSI---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSAK-------------
+-
+>NP_066402.2 histone H2B type 1-J [Homo sapiens]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSI---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSAK-------------
+-
+>NP_003513.1 histone H2B type 1-C/E/F/G/I [Homo sapiens]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>XP_013006892.1 histone H2B type 1 [Cavia porcellus]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_003509.1 histone H2B type 1-C/E/F/G/I [Homo sapiens]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_001032546.1 histone H2B type 1 [Bos taurus]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>XP_012928647.1 PREDICTED: histone H2B type 1 [Heterocephalus glaber]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_003517.2 histone H2B type 1-C/E/F/G/I [Homo sapiens]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_072173.2 histone H2B type 1 [Rattus norvegicus]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_003514.2 histone H2B type 1-C/E/F/G/I [Homo sapiens]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>XP_011741102.1 histone H2B type 1 [Macaca nemestrina]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_003516.1 histone H2B type 1-C/E/F/G/I [Homo sapiens]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>XP_008246696.1 PREDICTED: histone H2B type 1 [Oryctolagus cuniculus]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_001299582.1 histone H2B type 1-K [Homo sapiens]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSAK-------------
+-
+>XP_007634673.1 PREDICTED: histone H2B type 1-K [Cricetulus griseus]
+------------------------------------MPE----PA--------KSAP---
+---------------APK---KGSKKAVTKAQKK--------DG----KKRKR-SR----
+--KESYSV---YVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSAK-------------
+-
+>XP_005640164.1 PREDICTED: histone H2B type 1-A [Canis lupus familiaris]
+------------------------------------MPE---LTS--------KGTT---
+---------------ISK---KGFKRAVAKTQKK--------EG----KKRRR-CR----
+--KESYSI---YIYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_733759.1 histone H2B type 1-A [Homo sapiens]
+------------------------------------MPE---VSS--------KGAT---
+---------------ISK---KGFKKAVVKTQKK--------EG----KKRKR-TR----
+--KESYSI---YIYKVLKQVHPDTGISSKAMSIMNSFVTDIFERIASEASRLAHY----S
+KRSTISSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_783594.1 histone H2B type 1-A [Mus musculus]
+------------------------------------MPE---VAV--------KGAT---
+---------------ISK---KGFKKAVTKTQKK--------EG----RKRKR-CR----
+--KESYSI---YIYKVLKQVHPDTGISSKAMSIMNSFVTDIFERIASEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>NP_072169.1 histone H2B type 1-A [Rattus norvegicus]
+------------------------------------MPE---VSA--------KGTT---
+---------------ISK---KGFKKAVTKTQKK--------EG----RKRKR-CR----
+--EESYSI---YIYKVLKQVHPDTGISSKAMSIMNSFVTDIFERIAGEASRLAHY----N
+KRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTK------YTSSK-------------
+-
+>XP_002720211.1 PREDICTED: late histone H2B.L4 [Oryctolagus cuniculus]
+------------------------------------MAE----PA--------SHVASEE
+NLSL-----------EPK---TTASSTPKEKQPR--------------RRRRR-RQ----
+--GHNYSF-ASYFPKVLKHVHKGLSLSKEAKGVMDSIVRDVFERIAHEAASLVRY----S
+KHSTLTSRDVQSAVRLLLPGQLHKHADVEGTKALLK------FITHP-------------
+-
+>XP_002925981.1 PREDICTED: late histone H2B.L4 [Ailuropoda melanoleuca]
+------------------------------------MAE----PGCETSSEESLGTE---
+---------------EPS---AANPKSPKQKQKQ--------PR----RQCRRRCRRC--
+--PNSFAT---YFPRVLKQVHEGLSLSKKAVSVMDSFLKDIFEHIADEAAHLARSTKGSN
+KHSTINSREIQTAVRLLLPGEIGKHTVSKATKAVIR------FQRCE-------------
+-
+>XP_548517.2 PREDICTED: histone H2B type W-T [Canis lupus familiaris]
+MIPGKPEEGKGSSEGPICDTEVACDVRKCSDYKGASAPQ---QPPLSVLLSCWEGEPHMA
+EPGCETSSEECLGTKEPR---EAEPETPKRKKPR-------RQC----HRRCRRSR----
+--SDSFAI---YFPRVLKQVDEGLSLSQKAVSIMDSFVKDIFERIADEASRLARS----T
+KRSTITSREIQTAVRLLLPGEIGKYAVSEATKALMR------NQVGALEKQVKNVLSLGC
+G
+>NP_001375393.1 histone H2B type F-M [Homo sapiens]
+------------------------------------MAE---ASS--------ETTSEEG
+QSIQ-----------EPK---EANSTKAQKQKRR------GCRG----SRRRH-ANRRGD
+SFGDSFTP---YFPRVLKQVHQGLSLSQEAVSVMDSMIHDILDRIATEAGQLAHY----T
+KRVTITSRDIQMAVRLLLPGKMGKLAEAQGTNAALRTSLCAIWQQRK-------------
+-
+>NP_001180847.1 histone H2B type W-T [Macaca mulatta]
+--------MLRTQVPPLLRSTTAIVWSCRVMAAASAMAE----PS--------SETTSEE
+QLITQ----------EPK---EANSTMAQKQSKQ--------RK----RGRRGPCRCHAN
+CRGDSFAT---YFRRVLKQVHQGLSLSREAVSVMDSLVHDILDRIATEAGRLARS----T
+KRQTITAWETRIAVRLLLPGEMGKLAESEGTKAVLRTSLYAVQQQRK-------------
+-
+>NP_001002916.4 histone H2B type W-T [Homo sapiens]
+------------------------------------MAG----PS--------SETTSEE
+QLITQ----------EPKEANSTTSQKQSKQRKR---------GRHGPRRCHSNCR----
+--GDSFAT---YFRRVLKQVHQGLSLSREAVSVMDSLVHDILDRIATEAGHLARS----T
+KRQTITAWETRMAVRLLLPGQMGKLAESEGTKAVLRTSLYAIQQQRK-------------
+-
