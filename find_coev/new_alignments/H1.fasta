@@ -1,490 +1,399 @@
->NP_861453.1 testis-specific H1 histone [Homo sapiens]
-MEQALTGEAQSRWPRRGGSGAMAEAPGPSGES----------------------------
-----------------------RGHSATQLPAEKTVGGPSRGC----------SSSVLRV
-SQLVLQAISTHKGLTLAALKKELRNAG--YEVRRKS-------GRHEAPRGQAKATLLR-
---VSGSDAAGYFRV-------------------------------W--------------
------KVPKPRRKPGRARQEEGTRAPWRTP--AAPRSSRRRRQPLRKAARKAREVWRRNA
-RAKAKANARARRTRRARPRA---KEPPCARAKEEAG-----------------ATAADEG
-RGQAVKED-------------TTPRS----------------GKDKRRSSKPREEK----
--------------QEPKKPAQRTIQ-----------------------------------
------------------------
->NP_081580.2 testis-specific H1 histone [Mus musculus]
--------------------MAEAVQPSGESQG----------------------------
----------------------AELTIQIQQPAERALRTPAKRG----------TQSVLRV
-SQLLLRAIAGHQHLTLDALKKELGNAG--YEVRREI---SSH--HEGKSTRLEKGTLLR-
---VSGSDAAGYFRVWKISKPREKAGQSRLTLGSHSSGKTVLKSPRPLRPRSRRKAAKKAR
-EVWRRKARALKARSRRVRTRSTSGARSRTRSRASSRATSRATSRARSRARSRAQSSARSS
-ARSSAKSSAKSSTRSSAKSWARSKARSRARSRAKDL-----------------VRSKARE
-QAQAREQARARAREQAHARARTQDWVRAKAQEFVSAKEQQYVRAKEQERAKAREQVRIGA
-RDEARIKAKDYNRVRPTKEDTSPRPAEEKSSNSKLREEKGQEPERPVKQTIQKPALDNAP
-SIQGKACTKSFTKSGQPGDTESP
->NP_722575.1 histone H1.8 isoform 1 [Homo sapiens]
--------------MAPGSVTSDISPSSTSTAG----------------------------
----------------------SSRSPESEKPGPSHGGVPPGGPSHSSLPVGRRHPPVLRM
-VLEALQAGEQRRGTSVAAIKLYILHKY--PTVDVLR---FKYLLKQALATGMRRGLLARP
-LNSKARGATGSFKL------------------------------VP-KHKKKIQPRKMAP
-ATAPRRAGEAKGKGPKKPSEAKEDPPNVGKVKKAAKRPAKVQKPPPKPGAATEKARKQGG
-AAKDTRAQSGEARKVPPKPDKAMRAPSSAGGLSRKAKAKGSRSSQGDAEAYRKTKAESKS
-SKPTASKVKNGAASPTKKKVVAKAKA------------PKAGQGPNTKAAAPAKGS-GSK
-VVPAHLSRKTEAPKGPRKAGLPIKASSSKVSSQRAEA-----------------------
------------------------
->NP_001295191.1 histone H1.8 isoform 2 [Homo sapiens]
----------------MAPATAPRRAGEAKGKG----------------------------
----------------------PKKPSEAKEDPPNVGKVKKAAK----------RPAKVQK
-PPPKPGAATEKARKQGGAAKDTRAQSGEARKVPPKP--------DKAMRAPSSAGGLSRK
-AKAKGS------------------------------------------------------
------RSSQGDAEAYR----------------KTKAESKSSKPTASKVKNGAASPTKKKV
-VAKAKAPKAGQGPNTKAAAP---AKGSGSKVVPAHL-----------------SRKTEAP
-KGPRKAGL--------------------------------PIKASSSKVSSQRAEA----
-------------------------------------------------------------
------------------------
->NP_612184.1 histone H1.8 isoform 1 [Mus musculus]
----------MAPGSVSSVSSSSFPSRDTSPSG----------------------------
----------------------SCGLPGADKPGPSCRRIQAGQR----------NPTMLHM
-VLEALKAREARQGTSVVAIKVYIQHKY--PTVDTTR---FKYLLKQALETGVRRGLLTRP
-AHSKAKGATGSFKL------------------------------VP----------KPKT
-KKACAPKAGRGAAGAKETGSKKSGLLKKDQVGKATMEKGQKRRAYPCKAATLEMAPKKAK
-AKPKEVRKAPLKQDKAAGAP---LTANGGQKVKRSG-----------------SRQEANA
-HGKTKGEKSKPLASKVQNSVASLAKRKMADMAHTVTVVQGAETVQETKVPTPSQDI----
------GHKVQPIPRVRKAKTPENTQA----------------------------------
------------------------
->NP_015198.1 histone H1 [Saccharomyces cerevisiae S288C]
-----------------MAPKKSTTKTTSKGKK------------PATSK-----------
----------------------GKEKSTSKAAIKKTTAKKEEAS----------SKSYREL
-IIEGLTALKERKGSSRPALKKFIKEN---YPIVGSASNFDLY-FNNAIKKGVEAGDFEQ-
-----PKGPAGAVKL-------------------------------A---------KKKSP
-EVKKEKEVSPKPKQAATSVSATAS--------KAKAASTKLAPKKVVKKKSPTVTA----
--KKASSPSSLTYKEMILKSM---PQLNDGKGSSRIV-----------------LKKYVKD
-TFSSKLKTSSNFDYL------FNSAI--------------KKCVENGELVQPKGPS----
-------GIIKLNKKKVKLST----------------------------------------
------------------------
->XP_011105792.1 hho1p [Saccharomyces arboricola H-6]
----------MAPKKTSTKTTTTNKGKKPVTSK----------------------------
----------------------GKDKPVIKTAVKKNAAKKEEPS----------SKSYKEL
-IVEGLAALKERKGSSRPALKKFIKEN---YPLVGSTSNFDLY-FNNAIKKGVETGDFEQ-
-----PKGPAGTLKL----------------------------------------AKKKSP
-ELKKETSPKPKQAAAATTTTTTTTPTS-----LKAKAKTASKKQAPKKVVKKKVPAVAVI
-PKKTSSPSALTYKEMILKSM---PELNDGKGSSRIV-----------------LKKYVKD
-TFSSKLKTSSNFDYLFNSAI--------------------KKCVENGELVQPKGPS----
-------GIIKINKKKAKLST----------------------------------------
------------------------
->NP_650383.2 histone H1 variant BigH1 [Drosophila melanogaster]
------MKLKPVERNDGSDDESEEEMPNDHPESEDSNMGEEEELPEEDEEEMEEDEEEDRQ
-DGDEVETDNLGADRNPYPTPPPDDGSKLVPPDSDNPKSMVPKP----------KGTLISL
-ALMAIGKLASRSGSSVQAIMTYLKDNGQEWKDPKK----TARLLHRALKLAEANGEVVM-
---VK-----RSFKL------------------------------TDKQKNSSKAVEKMKA
-KKQ--KEKEKKAKVEKVLKEKIQK--------KEAKAKMKEKKASKEKSSKPTERKTKQA
-VKKKKPEDGTKDNPPASKAA---SSAAAQAMLETSQ-----------------TAIPEAG
-KKPAKTKVKLQADSSEAGKTKKSRKS--------------IGTLAQPKAARPKVKA----
-------VKKLVAGKGASTPDLSIMEAQATSTPQGATKAKRKRKV----------------
------------------------
->NP_001081535.1 protein B4 [Xenopus laevis]
-----------------MAPKKAVAAPEGGNKE----------------------------
--------------------NAAVKGSSKVKVKRKSIKLVKTQS----------HPPTLSM
-VVEVLKKNTERKGTSVQAIRTRILSAH--PTVDPLR---LKFLLRTALNKGLEKGILIRP
-LNSSATGATGRFKL------------------------------AK----------PVKT
-TKAGKENVASENVDPNAEQETQKKAPKKEKKAKTEKEPKGEKTKAVAKKAKEDSDEKPKV
-AKSKKAKEAKEVDKANKEAKEVDKANKEAKEVDKAN-----------------KEVKEVD
-KAPAKKPK-------------AKTEA--------------AKAEGGGKAKKEPPKAKAKD
-VKAQKDSTDEGAPVKAGKKGKKVTN-----------------------------------
------------------------
->sp|O17536.3|H14_CAEEL RecName: Full=Histone H1.4; AltName: Full=Histone H1-like protein 4
--------------MSDVAVAADTTETPAAPTK----------------------------
----------------------ASKATKASKATKASKATKAKTTKVPMVKADAAHPPFINM
-VTEAISSIKDRKGPSRAAILKYITTK---YTLGDQANKINAH-LRKALNKGLESNAFVQ-
---ASGNGANGRFRL------------------------------AE--------------
------KTASVAKSPAAAK--------------KDATGEKKATTTVAKKAATGEKKATTTV
-AKKAATGEKKATTTVAKKAA-AGDKAKKTEVKVKKV-----------------KSPKKIA
-KSPVNKVT-------------KSPVK--------------KIAKSSSMKAAPKKAA----
--------------AKPAKKAPAAAPEA---------------------------------
------------------------
->ACO09903.1 Histone H1x [Osmerus mordax]
-----MASDTEVVPAAEAPVAAKSKKRTATKPK----------------------------
----------------------PKAKPATVATSSAKKKKRKGKG----------PGKYSVL
-VVDAIKQLGERNGSSLAKIYNKAREAI--WFDQQHG---RTY-LRYSIRALVLNDTLIQ-
---VKGTGANGSFKL------------------------------N---------------
------KKKFETKAPKKAP--------------TPVKAVKTKAPAKKAKAAIKTKAKPKAS
-PKKKSTPKKKPAAKPKKLAA-------------KKA-----------------TPVKSKK
-PKPKKASK----------------------------------------------------
-----------PAAKSPRKK-----------------------------------------
------------------------
->ACM09455.1 Histone H1x [Salmo salar]
----------------MVKSEVEVTINAEEAPV----------------------------
--------------------------ASSLKPAKKKKNKKKKNK----------PGKYSVL
-VLDAVKKLNERSGSSLVKIYNEAKKAS--WFDEQNG---RTY-LRYSIRALVLNNTLIQ-
---VKGMGANGSFRL------------------------------N---------------
------EDKFAKGVPKKTQS-------------KPAKNTTKTAKASTTKKATVVKAKSSPK
-KAPDAKMPAAKLKKLGVKKV----------SAAQKN-----------------KKPKKAS
-KPPAK-------------------------------------------------------
---------------SPRKK-----------------------------------------
------------------------
->ACO10502.1 Histone H1x [Caligus rogercresseyi]
----------------MVKSEVEVTINAEEAPV----------------------------
--------------------------ASSLKPAKKKKNKKKKNK----------PGKYSVL
-VLDAVKKLNERSGSSLVKIYNEAKKAS--WFDEQNG---RTY-LRYSIRALVLNNTLIQ-
---VKGMGANGSFRL------------------------------N---------------
------EDKFAKGVPKKTQS-------------KPAKNTTKTAKASTTKKATVVKAKSSPK
-KAPDAKMPAAKLKKLGVKKV----------SAAQKN-----------------KKPKKAS
-KPPAK-------------------------------------------------------
---------------SPRKK-----------------------------------------
------------------------
->ACO07616.1 Histone H1x [Oncorhynchus mykiss]
----------------MVKSEVDVTINAEEAPV----------------------------
--------------------------ASGPKPAKKKKKKKKKNK----------PGKYSVL
-VLDAVKKLNERSGSSLVKIYNEAKKAS--WFDEQNG---RTY-LRYSIRALVLNNTLIQ-
---VKGMGANGSFRL------------------------------N---------------
------EDKFAKEVPKKTQSK------------PAKTTTKTAKASTTKKATVKPKAKSSPK
-KAPDAKKPAAKMKKLGVKKV----------IAAQKN-----------------KKPKKAS
-KPPAK-------------------------------------------------------
---------------SPRKK-----------------------------------------
------------------------
->NP_001080265.1 H1.10 linker histone S homeolog [Xenopus laevis]
-MALELEENLHSTEEEDEEEEEEEEGDEMRSRS----------------------------
----------------------TRNKGGAASSSGNKKKKKKKNQ----------PGRYSQL
-VVDTIRKLGERNGSSLAKIYSEAKKVS--WFDQQNG---RTY-LKYSIKALVQNDTLLQ-
---VKGVGANGSFRL----------------------------------------------
--------NKKKLEGLPYD--------------KKPPPAKPSSSSSNKKQQQQGPSSSPSK
-SHKKAKPKAKAEKEKPKTSS---------------------------------AKAKSPK
-KSAAKGKK-------------------------------------MKKGAKPSVRK----
--------------APKSKKA----------------------------------------
------------------------
->NP_006017.1 histone H1.10 [Homo sapiens]
-----------------MSVELEEALPVTTAEG----------------------------
----------------MAKKVTKAGGSAALSPSKKRKNSKKKNQ----------PGKYSQL
-VVETIRRLGERNGSSLAKIYTEAKKVP--WFDQQNG---RTY-LKYSIKALVQNDTLLQ-
---VKGTGANGSFKL------------------------------NR--------------
------KKLEGGGERRG----------------APAAATAPAPTAHKAKKAAPGAAGSRRA
-DKKPARGQKPEQRSHKKGAG----------AKKDKG-----------------GKAKKTA
-AAGGK---------------------------------------KVKKAAKPSVPK----
---------------VPKGRK----------------------------------------
------------------------
->sp|P23444.2|H1_MAIZE RecName: Full=Histone H1
------MATDVTETPAPLVDAAPEAPADAPAAP----------------------------
----------------------AADANAAKAKKATAPKKRASPT----------HLPYAEM
-VSEAITSLKERTGSSSYAIAKFVEDKHK-AKLPPN----FRKLLNVQLKKLVAGGKLTK-
--------VKNSYKL-------------------------------S--------------
------SATKPNPKPKAAPK-------------KPKTGAKKPKAAAKPKAKTPAKAKPATK
-PKPAAKPKAVVKPKTPAKPK---AKPAAKAKPKTAG-----------------AKPKPLA
-KKAGRAKA-------------AKTSA--------------KDTPGKKAPAKKAAPS----
------KKAATPVRKAPSRKAKK--------------------------------------
------------------------
+>NP_172161.1 winged-helix DNA-binding transcription factor family protein [Arabidopsis thaliana]
+MSEVEIENAATIEGNTAADAPVTDAAVEKKP------------------------------------AAKGRKTKNVKEV
+KEKKTVAAAPKKRTVSSHP-TYEEMIKDAIVTLKERTGSSQYAIQKFIEEKR--KELPPTFRKLLLLNLKRLVASGKLVK
+V--K------ASFKLPSASAKASS------------------PKAAAEKSAPAKKKPATVAVTKAKRKVAAAS------K
+AKK-------------TIAVKPKTAAAKKVTAKA--------------------KAKPVPRATAAATKRKAVDAKPKAKA
+RPAKAAKTAKVTSPAKKAVAATKKVATVATKKKT----------------------PVKKVV------------------
+----KPKTVKSPAKRASSRVKK---------------------------------------------------
+>P23444.2 H1_MAIZE RecName: Full=Histone H1
+--------MATDVTETPAPLVDAAPEAPADA-----------------------------------------PAAPAADA
+NAAKAKKATAPKKRASPTHLPYAEMVSEAITSLKERTGSSSYAIAKFVEDKHK-AKLPPNFRKLLNVQLKKLVAGGKLTK
+V--K------NSYKLSSATKPNPK------------------PKAAPKKPKTGAKKPKAAAKPKAK-----TP------A
+KA--------------KPATKPKPAAKPKAVVKP--------------------------KTPAKPKAKPAAKAKPKTAG
+AKP-----KPLAKKAGRAKAAKTSAKDTPGKK------------------------APAKKA------------------
+----APSKKAATPVRKAPSRKAKK-------------------------------------------------
+>O17536.3 H14_CAEEL RecName: Full=Histone H1.4; AltName: Full=Histone H1-like protein 4
+----MSDVAVAADTTETPAAPTKASKATKAS------------------------------------------KATKASK
+ATKAKTTKVPMVKADAAHP-PFINMVTEAISSIKDRKGPSRAAILKYITTKYTLGDQANKINAHLRKALNKGLESNAFVQ
+A--S-GNGANGRFRLA---EKTAS------------------VAKSPAAAKKDATGEKKATTTVAK-------------K
+AA--------------TGEKKATTTVAKKAATGE--------------------------KKATTTVAKKAAAGDKAKKT
+EVKVKKVKSPKKIAKSPVNKVTKSPVKKIAK-------------------------SSSMKA------------------
+----APKKAAAKPAKKAPAAAPEA-------------------------------------------------
 >AAZ66580.1 histone H1 [Drosophila melanogaster]
-----------MSDSAVATSASPVAAPPATVEK----------------------------
---------------------KVVQKKASGSAGTKAKKASATPS----------HPPTQQM
-VDASIKNLKERGGSSLLAIKKYITAT---YKCDAQK---LAPFIKKYLKSAVVNGKLIQ-
---TKGKGASGSFKL------------------------------SA--------------
---SAKKEKDPKAKSKVLSAEKK----------VQSKKVASKKIGVSSKKTAVGAADKKPK
-AKKAVATKKTAENKKTEKAKAKDAKKTGIIKSKPAA-----------------TKAKVTA
-AKPKAVVA-------------------------------KASKAKPAVSAKPKKTV----
-----KKASVSATAKKPKAKTTAAKK-----------------------------------
------------------------
+-------------MSDSAVATSASPVAAPPA---------------------------------------TVEKKVVQKK
+ASGSAGTKAKKASATPSHP-PTQQMVDASIKNLKERGGSSLLAIKKYITATY--KCDAQKLAPFIKKYLKSAVVNGKLIQ
+T--K-GKGASGSFKLS--ASAKKE------------------KDPKAKSKVLSAEKKVQSKKVASK-----KI------G
+VS--------------SKKTAVGAADKKPKAKKA--------------------------VATKKTAENKKTEKAKAKDA
+KKTGIIKSKPAATKAKVTAAKPKAVVAKASKAKPAVSAK-----------------PKKTVK------------------
+----KASVSATAKKPKAKTTAAKK-------------------------------------------------
+>NP_650383.2 histone H1 variant BigH1 [Drosophila melanogaster]
+MKLKPVERNDGSDDESEEEMPNDHPESEDSNMGEEEELPEEDEEEMEEDEEEDRQDGDEVETDNLGADRNPYPTPPPDDG
+SKLVPPDSDNPKSMVPKPKGTLISLALMAIGKLASRSGSSVQAIMTYLKDNGQEWKDPKKTARLLHRALKLAEANGEVVM
+V--K------RSFKLT-DKQKNSS------------------KAVEKMKAKKQKEKEKKAKVEKVL-----KE------K
+IQ--------------KKEAKAKMKEKKASKEKS---------------------SKPTERKTKQAVKKKKPEDGTKDNP
+PASKAASSAAAQAMLETSQTAIPEAGKKPAKTKVKLQADSSEAGKTKKSRKSIGTLAQPKAA------------------
+----RPKVKAVKKLVAGKGASTPDLSIMEAQATSTPQGATKAKRKRKV-------------------------
 >NP_999714.1 histone H1, early embryonic [Strongylocentrotus purpuratus]
-------------------------------------------------------------
---------------------------MAEKNSSKKVTTKKPAA----------HPPAAEM
-VATAITELKDRNGSSLQAIKKYIATN---FDVQMDR---QLLFIKRALKSGVEKGKLVQ-
---TKGKGASGSFKV-------------------------------N---------VQAAK
-AQASEKAKKEKEKAKLLAQREKA---------KEKGCSEEGETAEGSRPKKVKAAPKKAK
-KPVKKTTEKKEKKKTPKKAP------------KKPA-----------------AKKSTPK
-KTPKKAAA------------------------------------KKPKTAKPKKPA----
------------XKKAAKSK-----------------------------------------
------------------------
+--------------------------------------------------------------------------------
+MAEKNSSKKVTTKKPAAHP-PAAEMVATAITELKDRNGSSLQAIKKYIATNF--DVQMDRQLLFIKRALKSGVEKGKLVQ
+T--K-GKGASGSFKVNVQAAKAQA------------------SEKAKKEKEKAKLLAQREKAKEKGCSEEGET-------
+----------------AEGSRPKKVKAAPKKAK---------------------------KPVKKTTEKKEKKKTPKKAP
+KKP------------AAKKSTPKKTPKKAAA-------------------------KKPKTA------------------
+----KPKKPAXKKAAKSK-------------------------------------------------------
 >NP_999720.1 histone H1-gamma, late [Strongylocentrotus purpuratus]
-------------------------------------------------------------
---------------------------MSAAKPKVAKKARVAPA----------HPPSSQM
-VVAAVTALKERGGSSTQAIKKYIAAN---YTVDMTK---QGPFIRRALVKGVASGALVQ-
---TKGKGASGSFKL------------------------------G---------------
------KKKEGKSDAQKARIAAKKAKL------AAKKKEQREKKALKTKARKEKVAAKKAA
-KKATKKTKKVKKPAAKKAKKPAAKKPAAKKPAAKKA-----------------KKPAKKV
-AKPAKKAA----------------------------------AKPAKKAAKPAKKA----
-------AKPAKKAAKPAKK-----------------------------------------
------------------------
->EED88841.1 histone H1 [Thalassiosira pseudonana CCMP1335]
-------------------------------------------------------------
-------------------------------------------------------MSYKAG
-IAKAITELKDRTGSSSIAIKKHMQAN---LPADKKW---MNATFLKALKDMVASGELVK-
--------TKASYKL----------------------------------------------
---------------------------------SAVAKQKASSAGKPKKAPKKKAAPKKTA
-PKKKAAPKKKTATKKAATAK-------------KPA-----------------AKKATTA
-KKSTT-------------------------------------------------------
--------------KKTAKK-----------------------------------------
------------------------
+--------------------------------------------------------------------------------
+MSAAKPKVAKKARVAPAHP-PSSQMVVAAVTALKERGGSSTQAIKKYIAANY--TVDMTKQGPFIRRALVKGVASGALVQ
+T--K-GKGASGSFKLG--KKKEGK------------------SDAQKARIAAKKAKLAAKKKEQRE-----KK------A
+LK--------------TKARKEKVAAKKAAKKATK-------------------KTKKVKKPAAKKAKKPAAKKPAAKKP
+AAK---------KAKKPAKKVAKPAKKAAAK-------------------------PAKKAA------------------
+----KPAKKAAKPAKKAAKPAKK--------------------------------------------------
 >NP_999722.1 histone H1-delta [Strongylocentrotus purpuratus]
----------------MADTDAAPAAPAPSTPK----------------------------
-----------------------------KAAKKKASKPKTPAS----------HPKYSDM
-IASALESLKEKKGSSRQAILKYVKAN---FTVGDNA---NVH-IKQALKRGVTSGQLRH-
---VKGSGASGSFLL------------------------------AE--------------
------KTKTPKKAA------------------AKKATPKKKPAAKKTKKPAAKKATKKPA
-KKPAAKKKVAKPAAKKAAKP-----------VAKKA-----------------TPKKKVV
-KKAAKGKG----------------------------------------------------
-----------------KKK-----------------------------------------
------------------------
+-----------------MADTDAAPAAPAPS------------------------------------------------T
+PKKAAKKKASKPKTPASHP-KYSDMIASALESLKEKKGSSRQAILKYVKANF--TVGDNANVH-IKQALKRGVTSGQLRH
+V--K-GSGASGSFLLA----------------------------------------------------------------
+----------------EKTKTPKKAAAKKATPKK--------------------------KPAAKKTKKPAAKKATKKPA
+KKP------------AAKKKVAKPAAKKAAK-------------------------PVAKKA------------------
+----TPKKKVVKKAAKGKGKKK---------------------------------------------------
+>XP_010887142.1 PREDICTED: histone H1.0-B [Esox lucius]
+---------------MAETVAAPAPKAKKAK-------------------------------------------------
+----------APKKPASHP-KYSDMIKAAVQADKSRGGASRQSVQKYIKSHY--KVGDNADSQ-IKLSLKRMVSGGLLRH
+T--K-GIGASGSFKLA--KAEDTK------------------KAPKPKPVVKAKKSPVKAAKP-----------------
+----------------KKVAKPKKVVKSPAKA----------------------------KKAKVAVKKVKKSPKKVAPK
+PKK----------VVKKVKAAKPAKAVKP---------------------------KKAKAA------------------
+----KPKPKAAAKKAAKKK------------------------------------------------------
+>ACO09903.1 Histone H1x [Osmerus mordax]
+-------MASDTEVVPAAEAPVAAKSKKRTA-----------------------------------------TKPKPKAK
+PATVATSSAKKKKRKGKGPGKYSVLVVDAIKQLGERNGSSLAKIYNKAREAI--WFDQQHGRTYLRYSIRALVLNDTLIQ
+V--K-GTGANGSFKLN--KKKFET------------------KAPKKAPTPVKAVKTKAPAKKAK--------------A
+AI--------------KTKAKPKASPKKKSTPK---------------------------KKPAAKPKKLAAKKATPVKS
+KKP-----------------------------------------------------KPKKAS------------------
+----KPAAKSPRKK-----------------------------------------------------------
+>ACO07616.1 Histone H1x [Oncorhynchus mykiss]
+--------------MVKSEVDVTINAEEAPV-------------------------------------------------
+ASGPKPAKKKKKKKKKNKPGKYSVLVLDAVKKLNERSGSSLVKIYNEAKKAS--WFDEQNGRTYLRYSIRALVLNNTLIQ
+V--K-GMGANGSFRLN--EDKFAK------------------EVPKKTQSKPAKTTTKTAKASTTK--------------
+----------------KATVKPKAKSSPKKAPDA--------------------------KKPAAKMKKLGVKKVIAAQK
+NK------------------------------------------------------KPKKAS------------------
+----KPPAKSPRKK-----------------------------------------------------------
 >ACH70944.1 H1 histone family, member 0 like 1 [Salmo salar]
---------------------MAETAAAPAPKA----------------------------
---------------------------------KKAKAPKKPAS----------HPKYSDM
-IKAAVHADKSRGGASRQSVQKYIKSH---YKVGDNA---DSQ-IKLSLKRMVSEGVLRH-
---TKGIGASGSFKL----------------------------------------------
------AKAEDTKKAPKVKAVVK----------AKKSPVKSAKPKKVAKPKKVAKSPAKAK
-KAKVAVKKVKKSPKKAAPKP-------------KKV-----------------AKKTKVA
-KPAKATKP------------------------------------KKAKAAKPKPKA----
-----------AAKKAAKKK-----------------------------------------
------------------------
+---------------MAETAAAPAPKAKKAK-------------------------------------------------
+----------APKKPASHP-KYSDMIKAAVHADKSRGGASRQSVQKYIKSHY--KVGDNADSQ-IKLSLKRMVSEGVLRH
+T--K-GIGASGSFKLA--KAEDTK------------------KAPKVKAVVKAKKSPVKSAKP-----------------
+----------------KKVAKPKKVAKSPAKA----------------------------KKAKVAVKKVKKSPKKAAPK
+PKK------------VAKKTKVAKPAKATKP-------------------------KKAKAA------------------
+----KPKPKAAAKKAAKKK------------------------------------------------------
 >ACM08534.1 Histone H1.0 [Salmo salar]
-------------------------------------------------------------
------------------------------------------------------------M
-IKAAVHADKSRGGASRQSVQKYIKSH---YKVGDNA---DSQ-IKLSLKRMVSEGVLRH-
---TKGIGASGSFKL----------------------------------------------
------AKAEDTKKAPKVKA-------------VVKAKKSPVKSAKPKKVAKPKKVAKSPA
-KAKKAKVAVKKVKKSPKKAA----------PKPKKV-----------------VKKTKVA
-KPAKATKP------------------------------------KKAKAAKPKPKA----
-----------AAKKAAKKK-----------------------------------------
------------------------
+--------------------------------------------------------------------------------
+------------------------MIKAAVHADKSRGGASRQSVQKYIKSHY--KVGDNADSQ-IKLSLKRMVSEGVLRH
+T--K-GIGASGSFKLA--KAEDTK------------------KAPKVKAVVKAKKSPVKSAKP-----------------
+----------------KKVAKPKKVAKSPAKA----------------------------KKAKVAVKKVKKSPKKAAPK
+PKK----------------VVKKTKVAKPAKATKP---------------------KKAKAA------------------
+----KPKPKAAAKKAAKKK------------------------------------------------------
 >ACM09660.1 Histone H1.0 [Salmo salar]
-------------------------------------------------------------
------------------------------------------------------------M
-IKAAVHADKSRGGASRQSVQKYIKSH---YKVGDNA---DSQ-IKLSLKRMVSEGVLRH-
---TKGIGASGSFKL----------------------------------------------
------AKAEDTKKAPKVKA-------------VVKAKKSPVKSAKPKKVAKPKKVAKSPA
-KAKKAKVAVKKVKKSPKKAA----------PKPKKV-----------------AKKTKVA
-KPAKATKP------------------------------------KKAKAAKPKPKA----
-----------AAKKAAKKK-----------------------------------------
------------------------
->NP_998836.1 histone H1.0 [Xenopus tropicalis]
----------------------MTENSAAAPAG----------------------------
-------------------------------KPKRSKASKKATD----------HPKYSDM
-ILAAVQAEKSRSGSSRQSIQKYIKNH---YKVGENA---DSQ-IKLSIKRLVTSGTLKQ-
---TKGVGASGSFRL------------------------------A---------------
------KADEGKKPAK-----------------KPKKEIKKAASPKKAAKPKKAAKSPAKA
-KKPKVAEKKVKKPAKKKPAP-----------SPKKA-----------------KKTKTVK
-AKPVRASR-----------------------------------VKKAKPSKPKAKA----
-----------SPKKSGRKK-----------------------------------------
------------------------
->NP_001127680.1 histone H1.0 [Pongo abelii]
-----------------------MTENSTSAPA----------------------------
------------------------------AKPKRAKASKKSTD----------HPKYSDM
-VVAAIQAEKNRAGSSRQSIQKYIKSH---YKVGENA---DSQ-IKLSIKRLVTTGVLKQ-
---TKGVGASGSFRL------------------------------A---------------
------KSDEPKKSVA-----------------FKKTKKEIKKVATPKKASKPKKAASKAP
-TKKPKATPVKKAKKKLAATP-------------KKA-----------------KKPKTVK
-AKPVKASK-----------------------------------PKKAKPVKPKAKS----
-----------SAKRAGKKK-----------------------------------------
------------------------
->NP_005309.1 histone H1.0 [Homo sapiens]
-----------------------MTENSTSAPA----------------------------
------------------------------AKPKRAKASKKSTD----------HPKYSDM
-IVAAIQAEKNRAGSSRQSIQKYIKSH---YKVGENA---DSQ-IKLSIKRLVTTGVLKQ-
---TKGVGASGSFRL------------------------------A---------------
------KSDEPKKSVA-----------------FKKTKKEIKKVATPKKASKPKKAASKAP
-TKKPKATPVKKAKKKLAATP-------------KKA-----------------KKPKTVK
-AKPVKASK-----------------------------------PKKAKPVKPKAKS----
-----------SAKRAGKKK-----------------------------------------
------------------------
->NP_001069955.1 histone H1.0 [Bos taurus]
-----------------------MTENSTSTPA----------------------------
------------------------------AKPKRAKASKKSTD----------HPKYSDM
-IVAAIQAEKNRAGSSRQSIQKYIKSH---YKVGENA---DSQ-IKLSIKRLVTTGVLKQ-
---TKGVGASGSFRL------------------------------A---------------
------KSDEPKRSVA-----------------FKKTKKEVKKVATPKKAAKPKKAASKAP
-SKKPKATPVKKAKKKPAATP-------------KKT-----------------KKPKTVK
-AKPVKASK-----------------------------------PKKTKPVKPKAKS----
-----------SAKRTGKKK-----------------------------------------
------------------------
->NP_032223.2 histone H1.0 [Mus musculus]
-----------------------MTENSTSAPA----------------------------
------------------------------AKPKRAKASKKSTD----------HPKYSDM
-IVAAIQAEKNRAGSSRQSIQKYIKSH---YKVGENA---DSQ-IKLSIKRLVTTGVLKQ-
---TKGVGASGSFRL------------------------------A---------------
------KGDEPKRSVA-----------------FKKTKKEVKKVATPKKAAKPKKAASKAP
-SKKPKATPVKKAKKKPAATP-------------KKA-----------------KKPKVVK
-VKPVKASK-----------------------------------PKKAKTVKPKAKS----
-----------SAKRASKKK-----------------------------------------
------------------------
->NP_036710.1 histone H1.0 [Rattus norvegicus]
-----------------------MTENSTSTPA----------------------------
------------------------------AKPKRAKAAKKSTD----------HPKYSDM
-IVAAIQAEKNRAGSSRQSIQKYIKSH---YKVGENA---DSQ-IKLSIKRLVTTGVLKQ-
---TKGVGASGSFRL------------------------------A---------------
------KGDEPKRSVA-----------------FKKTKKEVKKVATPKKAAKPKKAASKAP
-SKKPKATPVKKAKKKPAATP-------------KKA-----------------KKPKIVK
-VKPVKASK-----------------------------------PKKAKPVKPKAKS----
-----------SAKRASKKK-----------------------------------------
------------------------
+--------------------------------------------------------------------------------
+------------------------MIKAAVHADKSRGGASRQSVQKYIKSHY--KVGDNADSQ-IKLSLKRMVSEGVLRH
+T--K-GIGASGSFKLA--KAEDTK------------------KAPKVKAVVKAKKSPVKSAKP-----------------
+----------------KKVAKPKKVAKSPAKA----------------------------KKAKVAVKKVKKSPKKAAPK
+PKK----------VAKKTKVAKPAKATKP---------------------------KKAKAA------------------
+----KPKPKAAAKKAAKKK------------------------------------------------------
+>ACM09455.1 Histone H1x [Salmo salar]
+--------------MVKSEVEVTINAEEAPV-------------------------------------------------
+ASSLKPAKKKKNKKKKNKPGKYSVLVLDAVKKLNERSGSSLVKIYNEAKKAS--WFDEQNGRTYLRYSIRALVLNNTLIQ
+V--K-GMGANGSFRLN--EDKFAK------------------GVPKKTQSKPAKNTTKTAKASTTKKA-----------T
+VV--------------KAKSSPKKAPDAKMPA----------------------------AKLKKLGVKKVSAAQKNKKP
+KKA-----------------------------------------------------SKPPAK------------------
+----SPRKK----------------------------------------------------------------
 >ACM09522.1 Histone H1t [Salmo salar]
---------------MSGVIAIPLATPATTPKK----------------------------
-------------------------------------RSKPKKT----------GPTVSDR
-ILKVVSASSGRSGVSLAALKKSLAASG--YDVVKN----NAR-LKLAVRRLVAKGYLLQ-
---PKGTGASGSFKI------------------------------NK--------------
------NKAVAKKKRPTKNK-------------VKKVGAKKVRRASPKKAAGAKKSPKKTK
-RKSPKKAKRPAAAKKPKSP----------------------------------RKTKRRV
-AKSTRAKT----------------------------------------------------
---------------APKKK-----------------------------------------
------------------------
+-------------MSGVIAIPLATPATTPKK-------------------------------------------------
+----------RSKPKKTGP-TVSDRILKVVSASSGRSGVSLAALKKSLAASGY-DVVKNNAR--LKLAVRRLVAKGYLLQ
+P--K-GTGASGSFKIN--KNKAVA------------------KKKRPTKNKVKKVGAKKVRRASPK-------------K
+AA--------------GAKKSPKKTKRKSPKK----------------------------AKRPAAAKKPKSPRKTKRRV
+AKS-----------------------------------------------------TRAKTA------------------
+-----PKKK----------------------------------------------------------------
+>NP_001081535.1 protein B4 [Xenopus laevis]
+---------------MAPKKAVAAPEGGNKE------------------------------------------NAAVKGS
+SKVKVKRKSIKLVKTQSHP-PTLSMVVEVLKKNTERKGTSVQAIRTRILSAHP-TVDPLRLKFLLRTALNKGLEKGILIR
+PLNSSATGATGRFKLAKPVKTTKA------------------GKENVASENVDPNAEQETQKKAPK-----KE------K
+KA--------------KTEKEPKGEKTKAVAKKAK-------------------EDSDEKPKVAKSKKAKEAKEVDKANK
+EAKEVDKANKEAKEVDKANKEVKEVDKAPAKKPKAKTEAAKAEGG-----------GKAKKE------------------
+----PPKAKAKDVKAQKDSTDEGAPVKAGKKGKKVTN------------------------------------
+>NP_001080265.1 H1.10 linker histone S homeolog [Xenopus laevis]
+--MALELEENLHSTEEEDEEEEEEEEGDEMR------------------------------------------SRSTRNK
+GGAASSSGNKKKKKKKNQPGRYSQLVVDTIRKLGERNGSSLAKIYSEAKKVS--WFDQQNGRTYLKYSIKALVQNDTLLQ
+V--K-GVGANGSFRLN--KKKLEG------------------LPYDKKPPPAKPSSSSSNKKQQQQ--------------
+----------------GPSSSPSKSHKKA-------------------------------KPKAKAEKEKPKTSSAKAKS
+PKK-----------------------------------------------------SAAKGK------------------
+----KMKKGAKPSVRKAPKSKKA--------------------------------------------------
 >NP_001087957.1 H1.6 linker histone, cluster member L homeolog [Xenopus laevis]
--------------MAATTESAPVAPPAEPAAA----------------------------
------------------------KKTKKQQPKKVAGGAKAKKPS---------GPSASEL
-IVKAVSASKERSGVSLAALKKALAAGG--YDVDKN----NSR-LKLALKALVTKGTLTQ-
---VKGSGASGSFKL------------------------------NK--------------
------KQPETKDKAAK----------------KKPAAPKAKKPAAGAKKAPKSPKKPKKV
-SAAAKSPKKVKKPAKAAKSP-----------KKPKA-----------------VKAKKVA
-KSPAKKAT--------------KPKT--------------AKSPAKAKVAKPKAAK----
------------AKKPAPKK-----------------------------------------
------------------------
->NP_085112.1 histone H1.1 [Mus musculus]
-----------------MSETAPVAQAASTATE----------------------------
----------------------KPAAAKKTKKPAKAAAPRKKPA----------GPSVSEL
-IVQAVSSSKERSGVSLAALKKSLAAAG--YDVEKN----NSR-IKLGLKSLVNKGTLVQ-
---TKGTGAAGSFKL-------------------------------N--------------
------KKAESKAI-------------------TTKVSVKAKASGAAKKPKKTAGAAAKKT
-VKTPKKPKKPAVSKKTSKSP-----------KKPKV-----------------VKAKKVA
-KSPAKAKA-------------VKPKA------------------SKAKVTKPKTPA----
----------KPKKAAPKKK-----------------------------------------
------------------------
->NP_005316.1 histone H1.1 [Homo sapiens]
-----------------MSETVPPAPAASAAPE----------------------------
---------------------KPLAGKKAKKPAKAAAASKKKPA----------GPSVSEL
-IVQAASSSKERGGVSLAALKKALAAAG--YDVEKN----NSR-IKLGIKSLVSKGTLVQ-
---TKGTGASGSFKL------------------------------NK--------------
------KASSVETKPGAS---------------KVATKTKATGASKKLKKATGASKKSVKT
-PKKAKKPAATRKSSKNPKKP--------------KT-----------------VKPKKVA
-KSPAKAKA-------------VKPKA------------------AKARVTKPKTAK----
-----------PKKAAPKKK-----------------------------------------
------------------------
->XP_010816821.1 histone H1.1 [Bos taurus]
----------------MSEVALPAPAASTSPEK----------------------------
----------------------PSAGKKAKKPAKAAAAAKKKPA----------GPSVSEL
-IVQAVSSSKERSGVSLAALKKALAAAG--YDVEKN----NSR-IKLGLKSLVGKGTLVQ-
---TKGTGASGSFKL------------------------------NK--------------
------KVASVDAKPTA----------------TKVATKTKVTSASKKPKKASGAAAAKKS
-VKTPKKARKSVLTKKSSKSP-----------KKPKA-----------------VKPKKVA
-KSPAKAKA-------------VKPKG------------------AKVKVTKPKTAA----
----------KPKKAAPKKK-----------------------------------------
------------------------
+------------MAATTESAPVAPPAEPAAA---------------------------------------------KKTK
+KQQPKKVAGGAKAKKPSGP-SASELIVKAVSASKERSGVSLAALKKALAAGGY-DVDKNNSR--LKLALKALVTKGTLTQ
+V--K-GSGASGSFKLNKKQPETKD------------------KAAKKKPAAPKAKKPAAGAKKAPKSPKKPK-------K
+VS--------------AAAKSPKKVKKPAKAAKS--------------------------PKKPKAVKAKKVAKSPAKKA
+TKP--------------------KTAKSP---------------------------AKAKVA------------------
+----KPKAAKAKKPAPKK-------------------------------------------------------
+>NP_998836.1 histone H1.0 [Xenopus tropicalis]
+------------MTENSAAAPAGKPKRSKAS-------------------------------------------------
+------------KKATDHP-KYSDMILAAVQAEKSRSGSSRQSIQKYIKNHY--KVGENADSQ-IKLSIKRLVTSGTLKQ
+T--K-GVGASGSFRLA---KADEG------------------KKPAKKPKKEIKKAASPKKAAKPK--------------
+----------------KAAKSPAKAKKPKVAE----------------------------KKVKKPAKKKPAPSPKKAKK
+TKT------------------VKAKPVRASRV------------------------KKAKPS------------------
+----KPKAKASPKKSGRKK------------------------------------------------------
+>P06513.2 H5_CAIMO RecName: Full=Histone H5
+----------------MTDSPIPAPAPAAKP-------------------------------------------------
+------KRAKAPRKPASHP-SYSEMIVAAIRAEKSRGGSSRQSIQKYVKSHY--KVGQHADLQ-IKLSIRRLLAAGVLKQ
+T--K-GVGASGSYRLAKGDKAKKS------------------PAGRKKKKKAARRSTSPRKAARPR-------------K
+AR--------------SPAKKPKAAARKARKKS---------------------------RASPKKAKKPKTVKAKSLKT
+SKV-----------------------------------------------------KKAKRS------------------
+----KPRAKSGARKSPKKK------------------------------------------------------
 >XP_425456.1 histone H1 [Gallus gallus]
-----------------MSETAPVAAPAVSAPG----------------------------
------------------------AKAAAKKPKKAAGGAKARKPA---------GPSVTEL
-ITKAVSASKERKGLSLAALKKALAAGG--YDVEKN----NSR-IKLGLKSLVSKGTLVQ-
---TKGTGASGSFKL------------------------------NK--------------
------KPGETKEKATKKK--------------PAAKPKKPAAKKPAAAAKKPKKAAAVKK
-SPKKAKKPAAAATKKAAKSP----------KKATKA-----------------GRPKKTA
-KSPAKAKA-------------VKPKA------------------AKSKAAKPKAAK----
-----------AKKAATKKK-----------------------------------------
------------------------
->NP_005311.1 histone H1.3 [Homo sapiens]
-----------------MSETAPLAPTIPAPAE----------------------------
---------------------KTPVKKKAKKAGATAGKRKAS------------GPPVSEL
-ITKAVAASKERSGVSLAALKKALAAAG--YDVEKN----NSR-IKLGLKSLVSKGTLVQ-
---TKGTGASGSFKL------------------------------NK--------------
------KAASGEGKPKAKKAGAA----------KPRKPAGAAKKPKKVAGAATPKKSIKKT
-PKKVKKPATAAGTKKVAKSA-----------KKVKT-----------------PQPKKAA
-KSPAKAKA-------------PKPKA------------------AKPKSGKPKVTK----
-----------AKKAAPKKK-----------------------------------------
------------------------
->NP_005313.1 histone H1.5 [Homo sapiens]
-----------------MSETAPAETATPAPVE----------------------------
---------------------KSPAKKKATKKAAGAGAAKRKAT----------GPPVSEL
-ITKAVAASKERNGLSLAALKKALAAGG--YDVEKN----NSR-IKLGLKSLVSKGTLVQ-
---TKGTGASGSFKL------------------------------NK--------------
------KAASGEAKPKAKKAG------------AAKAKKPAGATPKKAKKAAGAKKAVKKT
-PKKAKKPAAAGVKKVAKSPK-----------KAKAA-----------------AKPKKAT
-KSPAKPKA-------------VKPKA------------------AKPKAAKPKAAK----
------PKAAKAKKAAAKKK-----------------------------------------
------------------------
->NP_005312.1 histone H1.4 [Homo sapiens]
-----------------MSETAPAAPAAPAPAE----------------------------
------------------------KTPVKKKARKSAGAAKRKAS----------GPPVSEL
-ITKAVAASKERSGVSLAALKKALAAAG--YDVEKN----NSR-IKLGLKSLVSKGTLVQ-
---TKGTGASGSFKL------------------------------NK--------------
------KAASGEAKPKAKKAGAA----------KAKKPAGAAKKPKKATGAATPKKSAKKT
-PKKAKKPAAAAGAKKAKSPK------------KAKA-----------------AKPKKAP
-KSPAKAKA-------------VKPKA------------------AKPKTAKPKAAK----
-----------PKKAAAKKK-----------------------------------------
------------------------
->NP_579819.1 histone H1.4 [Rattus norvegicus]
-----------------MSETAPAAPAAPAPAE----------------------------
------------------------KTPIKKKARKAAGGAKRKAS----------GPPVSEL
-ITKAVAASKERSGVSLAALKKALAAAG--YDVEKN----NSR-IKLGLKSLVSKGTLVQ-
---TKGTGASGSFKL------------------------------NK--------------
------KAASGEAKPKAKKAGAA----------KAKKPAGAAKKPKKATGTATPKKSTKKT
-PKKAKKPAAAAGAKKAKSPK------------KAKA-----------------TKAKKAP
-KSPAKARA-------------VKPKA------------------AKPKTSKPKAAK----
-----------PKKTAAKKK-----------------------------------------
------------------------
->NP_005310.1 histone H1.2 [Homo sapiens]
-----------------MSETAPAAPAAAPPAE----------------------------
------------------------KAPVKKKAAKKAGGTPRKAS----------GPPVSEL
-ITKAVAASKERSGVSLAALKKALAAAG--YDVEKN----NSR-IKLGLKSLVSKGTLVQ-
---TKGTGASGSFKL------------------------------NK--------------
------KAASGEAKPKVKKAGGT----------KPKKPVGAAKKPKKAAGGATPKKSAKKT
-PKKAKKPAAATVTKKVAKSP-----------KKAKV-----------------AKPKKAA
-KSAAKA--------------------------------------VKPKAAKPKVVK----
-----------PKKAAPKKK-----------------------------------------
------------------------
->NP_056601.1 histone H1.2 [Mus musculus]
-----------------MSEAAPAAPAAAPPAE----------------------------
------------------------KAPAKKKAAKKPAGVRRKAS----------GPPVSEL
-ITKAVAASKERSGVSLAALKKALAAAG--YDVEKN----NSR-IKLGLKSLVSKGILVQ-
---TKGTGASGSFKL------------------------------NK--------------
------KAASGEAKPQAKKAGAA----------KAKKPAGAAKKPKKATGAATPKKAAKKT
-PKKAKKPAAAAVTKKVAKSP-----------KKAKV-----------------TKPKKVK
-SASKA---------------------------------------VKPKAAKPKVAK----
-----------AKKVAAKKK-----------------------------------------
------------------------
->NP_034507.2 histone H1t [Mus musculus]
-----------------MSETAPAASSTLVPAP----------------------------
----------------------VEEKPSSKRRGKKPGLAPARKPR---------GFSVSKL
-IPEALSTSQERAGMSLAALKKALAAAG--YDVEKN----NSR-IKLALKRLVNKGVLVQ-
---TKGTGASGSFKL------------------------------SK--------------
------KAASGNDKGKG----------------KKSASAKAKKMGLPRASRSPKSSKTKAV
-KKPKATPTKASGSGRKTKG----------------------------------AKGVQQR
-KSPAKARA-------------ANPNS------------------GKAKMVMQKTDL----
-------------RKAAGRK-----------------------------------------
------------------------
->NP_036711.1 histone H1t [Rattus norvegicus]
-----------------MSETAPAASSTLVPAP----------------------------
-----------------------VEKPATKRRGKKPGMATARKPR---------GFSVSKL
-IPEALSMSQERAGMSLAALKKALAAAG--YDVEKN----NSR-IKLALKRLVNKGVLVQ-
---TKGTGASGSFKL------------------------------SK--------------
------KAASGNDKGKG----------------KKSASAKAKKLGLSRASRSPKSSKTKVV
-KKPKATPTKGSGSRRKTKG----------------------------------AKGLQQR
-KSPAKARA-------------------------------TNSNSGKSKMVMQKTDL----
-------------RKAAGRK-----------------------------------------
------------------------
+---------------MSETAPVAAPAVSAPG---------------------------------------------AKAA
+AKKPKKAAGGAKARKPAGP-SVTELITKAVSASKERKGLSLAALKKALAAGGY-DVEKNNSR--IKLGLKSLVSKGTLVQ
+T--K-GTGASGSFKLN----KKPG------------------ETKEKATKKKPAAKPKKPAAKKPA--------------
+----------------AAAKKPKKAAAVKKSPKKA-------------------------KKPAAAATKKAAKSPKKATK
+AGR------------------PKKTAKSPAKAKAVKPKA-----------------AKSKAA------------------
+----KPKAAKAKKAATKKK------------------------------------------------------
+>NP_001038138.1 histone H5 [Gallus gallus]
+------------------------------------------------------------------------MTESLVLS
+PAPAKPKRVKASRRSASHP-TYSEMIAAAIRAEKSRGGSSRQSIQKYIKSHY--KVGHNADLQ-IKLSIRRLLAAGVLKQ
+T--K-GVGASGSFRLA--KSDKAK------------------RSPGKKKKAVRRSTSP----------------------
+----------------KKAARPRKARSPAKKP----------------------------KATARKARKKSRASPKKAKK
+PKT------------------VKAKSRKASKA------------------------KKVKRS------------------
+----KPRAKSGARKSPKKK------------------------------------------------------
 >NP_001074230.1 histone H1t [Macaca mulatta]
-----------------MSETVPAASAGAVPAV----------------------------
-------------------MEKPLTKKRGKKPAGLTSASRKAP-----------NLSVSKL
-ITEALSVSQERVGMSLAALKKALAAAG--YDVEKN----NSR-IKLSLKSLVNKGILVQ-
---TRGTGASGSFKL------------------------------S---------------
------KKVLPKSTRRKANK-------------SASAKTKKLVLSRDSKSPKTAKTNKRAK
-KPRATAPKKAVRSGRKAKG----------------------------------AKGKQQQ
-KSPVKARA------------------------------------TKPKLTQHHKAN----
------------IRKATSRK-----------------------------------------
------------------------
+---------------MSETVPAASAGAVPAV------------------------------------------MEKPLTK
+KRGKKPAGLTSASRKAPNL-SVSKLITEALSVSQERVGMSLAALKKALAAAGY-DVEKNNSR--IKLSLKSLVNKGILVQ
+T--R-GTGASGSFKLS------KK------------------VLPKSTRRKANKSASAKTKKLVLS--------------
+----------------RDSKSPKTAKTNKRA-----------------------------KKPRATAPKKAVRSGRKAKG
+AKG-------------------KQQQKSP---------------------------VKARAT------------------
+----KPKLTQHHKANIRKATSRK--------------------------------------------------
+>NP_001127680.1 histone H1.0 [Pongo abelii]
+------------MTENSTSAPAAKPKRAKAS-------------------------------------------------
+------------KKSTDHP-KYSDMVVAAIQAEKNRAGSSRQSIQKYIKSHY--KVGENADSQ-IKLSIKRLVTTGVLKQ
+T--K-GVGASGSFRLA------KS------------------DEPKKSVAFKKTKKEIKKVATP----------------
+----------------KKASKPKKAASKAPTKKPK-------------------------ATPVKKAKKKLAATPKKAKK
+PKT------------------VKAKPVKASKP------------------------KKAKPV------------------
+----KPKAKSSAKRAGKKK------------------------------------------------------
+>NP_005309.1 histone H1.0 [Homo sapiens]
+------------MTENSTSAPAAKPKRAKAS-------------------------------------------------
+------------KKSTDHP-KYSDMIVAAIQAEKNRAGSSRQSIQKYIKSHY--KVGENADSQ-IKLSIKRLVTTGVLKQ
+T--K-GVGASGSFRLA--------------------------KSDEPKKSVAFKKTKKEIKKVATP--------------
+----------------KKASKPKKAASKAPTKKPK-------------------------ATPVKKAKKKLAATPKKAKK
+PKT------------------VKAKPVKASKP------------------------KKAKPV------------------
+----KPKAKSSAKRAGKKK------------------------------------------------------
+>NP_005316.1 histone H1.1 [Homo sapiens]
+---------------MSETVPPAPAASAAPE-------------------------------------------KPLAGK
+KAKKPAKAAAASKKKPAGP-SVSELIVQAASSSKERGGVSLAALKKALAAAGY-DVEKNNSR--IKLGIKSLVSKGTLVQ
+T--K-GTGASGSFKLN---KKASS------------------VETKPGASKVATKTKATGASKKLKKATGASK-------
+----------------KSVKTPKKAKKPAATRKS----------------------SKNPKKPKTVKPKKVAKSPAKAKA
+VKPKA---------------------------------------------------AKARVT------------------
+----KPKTAKPKKAAPKKK------------------------------------------------------
+>NP_005310.1 histone H1.2 [Homo sapiens]
+---------------MSETAPAAPAAAPPAE----------------------------------------------KAP
+VKKKAAKKAGGTPRKASGP-PVSELITKAVAASKERSGVSLAALKKALAAAGY-DVEKNNSR--IKLGLKSLVSKGTLVQ
+T--K-GTGASGSFKLN---KKAAS------------------GEAKPKVKKAGGTKPKKPVGAAKKP------------K
+KA--------------AGGATPKKSAKKTPKKAK--------------------------KPAAATVTKKVAKSPKKAKV
+AKP-------------------KKAAKSAAKA------------------------VKPKAA------------------
+----KPKVVKPKKAAPKKK------------------------------------------------------
+>NP_005311.1 histone H1.3 [Homo sapiens]
+------------MSETAPLAPTIPAPAEKTP------------------------------------------------V
+KKKAKKAGATAGKRKASGP-PVSELITKAVAASKERSGVSLAALKKALAAAGY-DVEKNNSR--IKLGLKSLVSKGTLVQ
+T--K-GTGASGSFKLN---KKAAS------------------GEGKPKAKKAGAAKPRKPAGAAKKP------------K
+KV--------------AGAATPKKSIKKTPKKVK--------------------------KPATAAGTKKVAKSAKKVKT
+PQP-------------------KKAAKSPAKAKA----------------------PKPKAA------------------
+----KPKSGKPKVTKAKKAAPKKK-------------------------------------------------
+>NP_005312.1 histone H1.4 [Homo sapiens]
+---------------MSETAPAAPAAPAPAE----------------------------------------------KTP
+VKKKARKSAGAAKRKASGP-PVSELITKAVAASKERSGVSLAALKKALAAAGY-DVEKNNSR--IKLGLKSLVSKGTLVQ
+T--K-GTGASGSFKLN---KKAAS------------------GEAKPKAKKAGAAKAKKPAGAAKKP------------K
+KA--------------TGAATPKKSAKKTPKKA---------------------------KKPAAAAGAKKAKSPKKAKA
+AKP-------------------KKAPKSPAKAKA----------------------VKPKAA------------------
+----KPKTAKPKAAKPKKAAAKKK-------------------------------------------------
+>NP_005313.1 histone H1.5 [Homo sapiens]
+---------------MSETAPAETATPAPVE-------------------------------------------KSPAKK
+KATKKAAGAGAAKRKATGP-PVSELITKAVAASKERNGLSLAALKKALAAGGY-DVEKNNSR--IKLGLKSLVSKGTLVQ
+T--K-GTGASGSFKLN---KKAAS------------------GEAKPKAKKAGAAKAKKPAGATPK-------------K
+AK--------------KAAGAKKAVKKTPKKA----------------------------KKPAAAGVKKVAKSPKKAKA
+AAK------------------PKKATKSPAKPKAVKPKA-----------------AKPKAA------------------
+----KPKAAKPKAAKAKKAAAKKK-------------------------------------------------
 >NP_005314.2 histone H1t [Homo sapiens]
--------------MSETVPAASASAGVAAMEK----------------------------
----------------------LPTKKRGRKPAGLISASRKVP-----------NLSVSKL
-ITEALSVSQERVGMSLVALKKALAAAG--YDVEKN----NSR-IKLSLKSLVNKGILVQ-
---TRGTGASGSFKL------------------------------S---------------
------KKVIPKSTRSKAKK-------------SVSAKTKKLVLSRDSKSPKTAKTNKRAK
-KPRATTPKTVRSGRKAKG-----------------------------------AKGKQQQ
-KSPVKARA------------------------------------SKSKLTQHHEVN----
------------VRKATSKK-----------------------------------------
------------------------
+---------------MSETVPAASASAGVAA------------------------------------------MEKLPTK
+KRGRKPAGLISASRKVPNL-SVSKLITEALSVSQERVGMSLVALKKALAAAGY-DVEKNNSR--IKLSLKSLVNKGILVQ
+T--R-GTGASGSFKLS------KK------------------VIPKSTRSKAKKSVSAKTKKLVLS--------------
+----------------RDSKSPKTAKTNKR------------------------------AKKPRATTPKTVRSGRKAKG
+AKG-------------------KQQQKSP---------------------------VKARAS------------------
+----KSKLTQHHEVNVRKATSKK--------------------------------------------------
+>NP_861453.1 testis-specific H1 histone [Homo sapiens]
+MEQALTGEAQSRWPRRGGSGAMAEAPGPSGE------------------------------------------SRGHSAT
+QLPAEKTVGGPSRGCSSSVLRVSQLVLQAIST---HKGLTLAALKKELRNAGY-EVRRKSGRH----EAPRGQAKATLLR
+V--S-GSDAAGYFRVW--KVPKPR------------------RKPGRARQEEGTRAPWRTP-AAPRSSRRRRQ------P
+LR--------------KAARKAREVWRRNARAKA--------------------------KANARARRTRRARPRAKEPP
+CARAKEEAGATAADEGRGQAVKEDTTPRSGK-------------------------DKRRSS------------------
+----KPREEKQEPKKPAQRTIQ---------------------------------------------------
+>NP_722575.1 histone H1.8 isoform 1 [Homo sapiens]
+----MAPGSVTSDISPSSTSTAGSSRSPESE------------------------------------------KPGPSHG
+GVPPGGPSHSSLPVGRRHP-PVLRMVLEALQAGEQRRGTSVAAIKLYILHKYP-TVDVLRFKYLLKQALATGMRRGLLAR
+PLNSKARGATGSFKLV--PKHKKK------------------IQPRKMAPATAPRRAGEAKGKGPKKPSEAKEDPPNVGK
+VK--------------KAAKRPAKVQKPPPKPGAATEKARKQGGAAKDTRAQSGEARKVPPKPDKAMRAPSSAGGLSRKA
+KAKGSRSSQGDAEAYRKTKAESKSSKPTASKVKNGAASPTKKKVVAKAKAPKAGQGPNTKAA------------------
+----APAKGSGSKVVPAHLSRKTEAPKGPRKAGLPIKASSSKVSSQRAEA-----------------------
+>NP_001295191.1 histone H1.8 isoform 2 [Homo sapiens]
+-------MAPATAPRRAGEAKGKGPKKPSEA-----------------------------------------KEDPPNVG
+KVKKAAKRPAKVQKPPPKP--------GAATEKARKQGGAAKDTRAQSGEAR--KVPPKPDKAMRAPSSAGGLSRKAKAK
+GSRS-SQGDAEAYRKT--KAESKS------------------SKPTASKVKNGAASPTKKKVV-----------------
+----------------AKAKAPKAGQGPNTKA----------------------------AAPAKGSGSKVVPAHLSRKT
+EAPK----------------------------------------------------GPRKAG------------------
+----LPIKASSSKVSSQRAEA----------------------------------------------------
+>NP_006017.1 histone H1.10 [Homo sapiens]
+-----------MSVELEEALPVTTAEGMAKK-------------------------------------------VTKAGG
+SAALSPSKKRKNSKKKNQPGKYSQLVVETIRRLGERNGSSLAKIYTEAKKVP--WFDQQNGRTYLKYSIKALVQNDTLLQ
+V--K-GTGANGSFKLN--RKKLEG------------------GGERRGAPAAATAPAPTAHKAKKAA-------------
+----------------PGAAGSRRADKKPARGQK-----------------------PEQRSHKKGAGAKKDKGGKAKKT
+AAA-----------------------------------------------------GGKKVK------------------
+----KAAKPSVPKVPKGRK------------------------------------------------------
 >XP_005640152.1 histone H1t [Canis lupus familiaris]
-----------------MSETVPAVAAGTALAS----------------------------
-----------------------MENPSAKKRGRKPGGIPEAAPKAP-------GLSVSKL
-IMEALSVSQERAGMSLAALKKALAAAG--YDVEKN----NSR-IKLCLKSLVSKGTLVQ-
---TKGTGASGSFKL------------------------------NK--------------
------KALLP----------------------TPAKSRVKRPPSTKTKRLVLSRDSKSPK
-AAKTNKAKKPGGAGAQKAAC---------SGRKAKG-----------------AKDKQPR
-KSPGKAPT------------------------------------GKPKAAKPRLNQ----
--------QKVNPRKAVSKK-----------------------------------------
------------------------
+---------------MSETVPAVAAGTALAS------------------------------------------MENPSAK
+KRGRKPGGIPEAAPKAPGL-SVSKLIMEALSVSQERAGMSLAALKKALAAAGY-DVEKNNSR--IKLCLKSLVSKGTLVQ
+T--K-GTGASGSFKLN-----KKA------------------LLPTPAKSRVKRPPSTKTKRLVLS--------------
+----------------RDSKSPKAAKTNKA------------------------------KKPGGAGAQKAACSGRKAKG
+AKD-------------------KQPRKSPGKAPT----------------------GKPKAA------------------
+----KPRLNQQKVNPRKAVSKK---------------------------------------------------
 >NP_001243880.1 histone H1t [Equus caballus]
--------------MSETAPAAPAEPVLSSMEK----------------------------
----------------------PPAKKRGKKPVGLTGGSRKVP-----------GSSVSKL
-ITEALSVSQERAGMSLAALKKALAAAG--YDVEKN----NRR-IKLGLKSLVSKGTLVQ-
---TRGTGASGSFKL----------------------------------------------
-----SKKATPEPAKGRV---------------KKGASANAKKLVLPKGSKSPKSAKTNKR
-TSKARTPAAQPSARGGRKSK---------------G-----------------AKGKQQL
-KSPGKGRT------------------------------------GKPKTGKPKLTQ----
--------QRTNPRKTASKK-----------------------------------------
------------------------
+---------------MSETAPAAPAEPVLSS------------------------------------------MEKPPAK
+KRGKKPVGLTGGSRKVPGS-SVSKLITEALSVSQERAGMSLAALKKALAAAGY-DVEKNNRR--IKLGLKSLVSKGTLVQ
+T--R-GTGASGSFKLS------KK------------------ATPEPAKGRVKKGASANAKKLVLP--------------
+----------------KGSKSPKSAKTNKRT-----------------------------SKARTPAAQPSARGGRKSKG
+AKG-------------------KQQLKSPGKGRT----------------------GKPKTG------------------
+----KPKLTQQRTNPRKTASKK---------------------------------------------------
+>XP_010816821.1 histone H1.1 [Bos taurus]
+----------------MSEVALPAPAASTSP------------------------------------------EKPSAGK
+KAKKPAKAAAAAKKKPAGP-SVSELIVQAVSSSKERSGVSLAALKKALAAAGY-DVEKNNSR--IKLGLKSLVGKGTLVQ
+T--K-GTGASGSFKLN---KKVAS------------------VDAKPTATKVATKTKVTSASKKPKKASGAA-------A
+AK--------------KSVKTPKKARKSVLTKKS----------------------SKSPKKPKAVKPKKVAKSPAKAKA
+VKPKG---------------------------------------------------AKVKVT------------------
+----KPKTAAKPKKAAPKKK-----------------------------------------------------
+>NP_001069955.1 histone H1.0 [Bos taurus]
+------------MTENSTSTPAAKPKRAKAS-------------------------------------------------
+------------KKSTDHP-KYSDMIVAAIQAEKNRAGSSRQSIQKYIKSHY--KVGENADSQ-IKLSIKRLVTTGVLKQ
+T--K-GVGASGSFRLA------KS------------------DEPKRSVAFKKTKKEVKKVATP----------------
+----------------KKAAKPKKAASKAPSKKPK-------------------------ATPVKKAKKKPAATPKKTKK
+PKT------------------VKAKPVKASKP------------------------KKTKPV------------------
+----KPKAKSSAKRTGKKK------------------------------------------------------
+>NP_056601.1 histone H1.2 [Mus musculus]
+---------------MSEAAPAAPAAAPPAE----------------------------------------------KAP
+AKKKAAKKPAGVRRKASGP-PVSELITKAVAASKERSGVSLAALKKALAAAGY-DVEKNNSR--IKLGLKSLVSKGILVQ
+T--K-GTGASGSFKLN---KKAAS------------------GEAKPQAKKAGAAKAKKPAGAAKKP------------K
+KA--------------TGAATPKKAAKKTPKKAK--------------------------KPAAAAVTKKVAKSPKKAKV
+TKP--------------------KKVKSASKA------------------------VKPKAA------------------
+----KPKVAKAKKVAAKKK------------------------------------------------------
+>NP_085112.1 histone H1.1 [Mus musculus]
+---------------MSETAPVAQAASTATE--------------------------------------------KPAAA
+KKTKKPAKAAAPRKKPAGP-SVSELIVQAVSSSKERSGVSLAALKKSLAAAGY-DVEKNNSR--IKLGLKSLVNKGTLVQ
+T--K-GTGAAGSFKLNKKAESKAIT----------------TKVSVKAKASGAAKKPKKTAGAAAK--------------
+----------------KTVKTPKKPKKPAVSKKT----------------------SKSPKKPKVVKAKKVAKSPAKAKA
+VKPKA---------------------------------------------------SKAKVT------------------
+----KPKTPAKPKKAAPKKK-----------------------------------------------------
+>NP_032223.2 histone H1.0 [Mus musculus]
+------------MTENSTSAPAAKPKRAKAS-------------------------------------------------
+------------KKSTDHP-KYSDMIVAAIQAEKNRAGSSRQSIQKYIKSHY--KVGENADSQ-IKLSIKRLVTTGVLKQ
+T--K-GVGASGSFRLA------KG------------------DEPKRSVAFKKTKKEVKKVATP----------------
+----------------KKAAKPKKAASKAPSKKPK-------------------------ATPVKKAKKKPAATPKKAKK
+PKV------------------VKVKPVKASKP------------------------KKAKTV------------------
+----KPKAKSSAKRASKKK------------------------------------------------------
+>NP_612184.1 histone H1.8 isoform 1 [Mus musculus]
+----------MAPGSVSSVSSSSFPSRDTSP------------------------------------------SGSCGLP
+GADKPGPSCRRIQAGQRNP-TMLHMVLEALKAREARQGTSVVAIKVYIQHKYP-TVDTTRFKYLLKQALETGVRRGLLTR
+PAHSKAKGATGSFKLVPKPKTKKA------------------CAPKAGRGAAGAKETGSKKSGLLKKDQVGKATMEKGQK
+RRAYPCKAATLEMAPKKAKAKPKEVRKAPLKQDK---------------AAGAPLTANGGQKVKRSGSRQEANAHGKTKG
+EKSKPLASKVQNSVASLAKRKMADMAHTVTVVQGAETV------------------QETKVP------------------
+----TPSQDIGHKVQPIPRVRKAKTPENTQA------------------------------------------
+>NP_034507.2 histone H1t [Mus musculus]
+---------------MSETAPAASSTLVPAP--------------------------------------------VEEKP
+SSKRRGKKPGLAPARKPRGFSVSKLIPEALSTSQERAGMSLAALKKALAAAGY-DVEKNNSR--IKLALKRLVNKGVLVQ
+T--K-GTGASGSFKLS--KKAASG------------------NDKGKGKKSASAKAKKMGLPRASRS-------------
+----------------PKSSKTKAVKKPKATPT---------------------------KASGSGRKTKGAKGVQQRKS
+P-------------------------------------------------------AKARAA------------------
+----NPNSGKAKMVMQKTDLRKAAGRK----------------------------------------------
+>NP_081580.2 testis-specific H1 histone [Mus musculus]
+--------------MAEAVQPSGESQGAELT----------------------------------------------IQI
+QQPAERALRTPAKRGTQSVLRVSQLLLRAIAG---HQHLTLDALKKELGNAGY-EVRREISSHHEGKSTR--LEKGTLLR
+V--S-GSDAAGYFRVWKISKPREKAGQSRLTLGSHSSGKTVLKSPRPLRPRSRRKAAKKAREVWRRKARALKA------R
+SRRVRTRSTSGARSRTRSRASSRATSRATSRARSRARSRAQSSARSSARSSAKSSAKSSTRSSAKSWARSKARSRARSRA
+KDLVRSKAREQAQAREQARARAREQAHARARTQDWVRAKAQEFVSAKEQQYVRAKEQERAKAREQVRIGARDEARIKAKD
+YNRVRPTKEDTSPRPAEEKSSNSKLREEKGQEPERPVKQTIQKPALDNAPSIQGKACTKSFTKSGQPGDTESP
+>NP_061262.1 spermatid-specific linker histone H1-like protein [Mus musculus]
+---------------MAQMVAGDQDAGTLWV------------------------------------------------P
+SQSESQTESDISTQSLRKP-TMSYVILKTLADKRVHNCVSLATLKKAVSITGY-NMTHNTWR--FKRVLQNLLDKGMIMH
+V--TCCKGASGSLCLC--KERALK------------------SNHRAKRC-----------------------------Q
+DR--------------QKSQKPQKPGQRESEP-----------------------------------CQLLLSSKKKNDQ
+LFK-----------------------------------------------------GVRRVA------------------
+----KGNRHCHY-------------------------------------------------------------
+>NP_579819.1 histone H1.4 [Rattus norvegicus]
+---------------MSETAPAAPAAPAPAE----------------------------------------------KTP
+IKKKARKAAGGAKRKASGP-PVSELITKAVAASKERSGVSLAALKKALAAAGY-DVEKNNSR--IKLGLKSLVSKGTLVQ
+T--K-GTGASGSFKLN---KKAAS------------------GEAKPKAKKAGAAKAKKPAGAAKKP------------K
+KA--------------TGTATPKKSTKKTPKKA---------------------------KKPAAAAGAKKAKSPKKAKA
+TKA-------------------KKAPKSPAKARA----------------------VKPKAA------------------
+----KPKTSKPKAAKPKKTAAKKK-------------------------------------------------
+>NP_036710.1 histone H1.0 [Rattus norvegicus]
+------------MTENSTSTPAAKPKRAKAA-------------------------------------------------
+------------KKSTDHP-KYSDMIVAAIQAEKNRAGSSRQSIQKYIKSHY--KVGENADSQ-IKLSIKRLVTTGVLKQ
+T--K-GVGASGSFRLAKGDEPKRS------------------VAFKKTKKEVKKVATP----------------------
+----------------KKAAKPKKAASKAPSKKPK-------------------------ATPVKKAKKKPAATPKKAKK
+PKI------------------VKVKPVKASKP------------------------KKAKPV------------------
+----KPKAKSSAKRASKKK------------------------------------------------------
+>NP_036711.1 histone H1t [Rattus norvegicus]
+---------------MSETAPAASSTLVPAP---------------------------------------------VEKP
+ATKRRGKKPGMATARKPRGFSVSKLIPEALSMSQERAGMSLAALKKALAAAGY-DVEKNNSR--IKLALKRLVNKGVLVQ
+T--K-GTGASGSFKLS--KKAASG------------------NDKGKGKKSASAKAKKLGLSRASRSPKSSKT-------
+----------------KVVKKPKATPTKGSGSR---------------------------RKTKGAKGLQQRKSPAKARA
+TNS-----------------------------------------------------NSGKSK------------------
+----MVMQKTDLRKAAGRK------------------------------------------------------
+>NP_001103035.1 spermatid-specific linker histone H1-like protein [Rattus norvegicus]
+-------------MSLVSPSPDSNAVMAGDQ-----------------------------------------DASTSQVP
+SQSESKIGPNVATQTLRKP-TMSKVILRTVADKGVHSRVSLAALKKAVSITGY-NMAQNTWR--FKRVLQNLVKKGMLKQ
+V--T-GKGASGSFRLG--KKQAF---------------------------------------------------------
+----------------KSKCKAKRRQRRQKP-----------------------------GQRRTGSRRSLLGSKKSNNR
+LFK-----------------------------------------------------GVRRVA------------------
+----KGRRH----------------------------------------------------------------
+>XP_004175972.1 PREDICTED: histone H5-like [Taeniopygia guttata]
+----------------MTRLPSMCKASSSLM--------------------------------------------SCVHL
+CAFPPPKRARSARRPAAHP-AYSDMVTAAVRADKSRGGASRQSIQKYVKSNY--KVGQNADVQ-IRLAIRRLLAAGVLKQ
+T--K-GVGASGSFRLA--KAGKAK------------------RSPSRKRKKAARRSTSPRKTARSR-------------K
+AR--------------SPAKKPKSAARKARKK----------------------------SRSPKKAKKPKTVKAKSLKA
+SKP-----------------------------------------------------KKARRS------------------
+----KSRAKSGARKSPKKK------------------------------------------------------
+>ACO10502.1 Histone H1x [Caligus rogercresseyi]
+--------------MVKSEVEVTINAEEAPV-------------------------------------------------
+ASSLKPAKKKKNKKKKNKPGKYSVLVLDAVKKLNERSGSSLVKIYNEAKKAS--WFDEQNGRTYLRYSIRALVLNNTLIQ
+V--K-GMGANGSFRLN--EDKFAK------------------GVPKKTQSKPAKNTTKTAKASTTK-----KA------T
+VV--------------KAKSSPKKAPDAKMPA----------------------------AKLKKLGVKKVSAAQKNKKP
+KKA-----------------------------------------------------SKPPAK------------------
+----SPRKK----------------------------------------------------------------
+>EED88841.1 histone H1 [Thalassiosira pseudonana CCMP1335]
+--------------------------------------------------------------------------------
+-------------------MSYKAGIAKAITELKDRTGSSSIAIKKHMQANL--PADKKWMNATFLKALKDMVASGELVK
+T--K------ASYKLSAVAKQKA---------------------------------------------------------
+----------------SSAGKPKKAPKKKAAPKK--------------------------TAPKKKAAPKKKTATKKAAT
+AKK-----------------------------------------------------PAAKKA------------------
+----TTAKKSTTKKTAKK-------------------------------------------------------
+>NP_015198.1 histone H1 [Saccharomyces cerevisiae S288C]
+-------------MAPKKSTTKTTSKGKKPA------------------------------------------TSKGKEK
+STSKAAIKKTTAKKEEASSKSYRELIIEGLTALKERKGSSRPALKKFIKENYPIVGSASNFDLYFNNAIKKGVEAGDFEQ
+P--K---GPAGAVKLA--KKKSPE------------------VKKEKEVSPKPKQAATSVSATASKA------------K
+AA--------------STKLAPKKVVKKKSPTVT---------------------AKKASSPSSLTYKEMILKSMPQLND
+GKG-----SSRIVLKKYVKDTFSSKLKTSSNFDYLFNSAIKKCV------------ENGELV------------------
+----QPKGPSGIIKLNKKKVKLST-------------------------------------------------
+>ACI22865.1 histone H1-like protein in spermatids 1, partial [Peromyscus californicus insignis]
+-----------MQRDTLLVSPSAAPNSAVAV-----------------------------------------DQDASTSD
+DPSKSETGPYTCPQTMRKP-SMSKVILRAVTDKGLHRRVSLAALKKAVSTTGY-NMAHNSWR--FKRVVKNLVKKGMLKQ
+V--T-GKGASGSFRLG--KKQAF---------------------------------------------------------
+----------------KSKRKARRRQRRQQRQKP--------------------------RQRRSGPRQSLLGSGRSLKG
+LF------------------------------------------------------------------------------
+-------------------------------------------------------------------------
+>XP_011105792.1 hho1p [Saccharomyces arboricola H-6]
+-----------MAPKKTSTKTTTTNKGKKPV------------------------------------------TSKGKDK
+PVIKTAVKKNAAKKEEPSSKSYKELIVEGLAALKERKGSSRPALKKFIKENYPLVGSTSNFDLYFNNAIKKGVETGDFEQ
+P--K---GPAGTLKLA--KKKSPE------------------LKKETSPKPKQAAAATTTTTTTTPTSLKAKA------K
+TA--------------SKKQAPKKVVKKKVPAVAV-------------------IPKKTSSPSALTYKEMILKSMPELND
+GKG-----SSRIVLKKYVKDTFSSKLKTSSNFDYLFNSAIKKCV------------ENGELV------------------
+----QPKGPSGIIKINKKKAKLST-------------------------------------------------
